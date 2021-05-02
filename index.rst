@@ -1,9 +1,5 @@
-********
-startup
-********
-
-- Welcome to Undertale RPG Docs
-
+Welcome to Undertale RPG Docs
+###############################
 
 ************
 Description
